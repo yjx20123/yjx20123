@@ -3,8 +3,7 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 技能  
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
@@ -14,23 +13,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
 
 
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
 
-## Connect with me  
-  
 
-<br/>  
 
 
 ## Github Stats  
